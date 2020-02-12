@@ -16,10 +16,10 @@ Ref:Lema, M., and O. Mitchell. "Absolute moment block truncation coding and its 
 IEEE Transactions on communications 32.10 (1984): 1148-1157.
 
 
-**Halftone version of BTC: OB-BTC, ED-BTC, DD-BTC are also provided.** 
+Halftone version of BTC: **OB-BTC, ED-BTC, DD-BTC is also provided.** 
 
 
-MTBTC can be accessed in this same blog. 
+**MTBTC** can be accessed in this same blog. 
 
 
 
