@@ -1,5 +1,5 @@
-** H-BTC-Database **
-***  H-BTC Database: A Brief Review on Halftone based Block Truncation Coding (H-BTC) Images ***
+H-BTC-Database
+H-BTC Database: A Brief Review on Halftone based Block Truncation Coding (H-BTC) Images 
 
 The repository contain code for 
 
