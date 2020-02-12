@@ -22,5 +22,6 @@ Halftone version of BTC: **OB-BTC, ED-BTC, DD-BTC is also provided.**
 **MTBTC** can be accessed in this same blog. 
 
 
+The database can be downloaded using 
 
-
+<a href="https://drive.google.com/open?id=1zg0tozYKaLjvaQ1CQ9094npUVyFF2wBS"" target="blank"> 
