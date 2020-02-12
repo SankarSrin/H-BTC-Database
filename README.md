@@ -5,7 +5,7 @@ The repository contain code for
 
 **Block Truncation Coding Image**
 
-Ref: Delp, Edward, and O. Mitchell.  %"Image compression using block truncation coding." 
+Ref: Delp, Edward, and O. Mitchell. "Image compression using block truncation coding." 
 IEEE transactions on Communications 27.9 (1979): 1335-1342.
 
 
